@@ -1,0 +1,16 @@
+[
+    {
+        "messageID":"1640488238",
+        "messageHash":"16:3:METJA",
+        "recipient":"+27999999999",
+        "message":"hi metja",
+        "status":"Stored"       
+    },
+    {
+        "messageID":"9876543210",
+        "messageHash":"98:4:HELLO",
+        "recipient":"+278398968976",
+        "message":"Test message",
+        "status":"Stored"
+    }
+]
